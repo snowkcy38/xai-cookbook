@@ -82,3 +82,16 @@
     - Zhaohan Dong
   tags:
     - function-calling
+
+- title: "Korean Roleplay Character: Loewol (뢰월)"
+  path: examples/korean_roleplay_character/guide.ipynb
+  date: 2025-01-17
+  description: "Create a consistent Korean roleplay character with specific behavioral patterns, multilingual support, and mystical personality traits"
+  authors:
+    - GitHub Copilot
+  tags:
+    - roleplay
+    - korean
+    - character-consistency
+    - multilingual
+    - creative-writing
